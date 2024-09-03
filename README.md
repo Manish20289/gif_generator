@@ -1,2 +1,1 @@
-# gitg_generator
-It randomly generate the gif
+# random-gifs
